@@ -1,4 +1,4 @@
-# SymaX5SW-Rx-Tx
+# SymaX5SW Rx and Tx
 Syma X5SW Telemetry decoder and Transmissor.
 
 A research of a SYMA X5SW Drone with 3 defined objectives.
